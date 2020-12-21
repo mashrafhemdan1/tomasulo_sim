@@ -1,0 +1,10 @@
+
+Friday 17th of July, 11:30 PM: Finished implementing the instruction and the instruction queue classes with their full definition
+
+Satuerday 18th of July, 05:30 PM: finished writing the instruction memory to take input either from the user-directly or from files
+
+Monday 20th of July, 12:00 AM: finished debugging the first test (co-work did less debugging than the other college)
+
+Tuesday 21st of July, 8:27 PM: debugging the second test (co-work did less debugging than the other college)
+
+Wednesday 22nd of July, 10:52 PM: finished debugging second test (co-work, less) finished report, readme text

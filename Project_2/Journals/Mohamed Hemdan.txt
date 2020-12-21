@@ -1,0 +1,10 @@
+
+Satuerday 18th of July, 10:30 PM: finished writing the RS class as well as the data hazard and control hazard handling, the data memory and the registerfile
+
+Sunday 19th of July, 9:15 PM: finished trying to implement the bonus, plus trying to integrate both the work of my and the other collegue
+
+Monday 20th of July, 12:00 AM: finished debugging the first test 
+
+Tuesday 21st of July, 10:15 PM: debugging the second test 
+
+Wednesday 22nd of July, 11:45 PM: finished debugging second test and third test
